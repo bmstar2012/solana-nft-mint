@@ -1,4 +1,4 @@
-# How to mint the NFT
+# How to mint the NFT on Solana
 ## deploy the program
 ### build
 ```
